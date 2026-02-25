@@ -1,14 +1,14 @@
 The Shattered Crystal of Arendall
 Choose Your Own Adventure – Web Development Lab
 
-Description
+Description: 
 This project is a Choose Your Own Adventure interactive story developed entirely in pure HTML.
 The story takes place in the fantasy kingdom of Arendall, where the ancient Crystal of Balance has been destroyed. Darkness spreads across the land, and the player must make decisions that determine the fate of the kingdom.
 
 Each page presents narrative content and two different choices that lead to completely different HTML pages, creating multiple possible story paths and endings.
 This project was created as part of a Web Development laboratory assignment.
 
-How the Game Works
+How the Game Works:
 The story begins at index.html.
 
 Each page contains:
